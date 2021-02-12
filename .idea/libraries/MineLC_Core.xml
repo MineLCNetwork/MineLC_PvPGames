@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MineLC_Core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MineLC_CORE_Spigot_1.8/out/artifacts/MineLC_Core_jar/MineLC_Core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

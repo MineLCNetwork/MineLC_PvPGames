@@ -1,0 +1,7 @@
+name: MineLC_PvPGames
+version: 1.4-SNAPSHOT
+main: net.minelc.minelc_pvpgames.MineLC_PvPGames
+depend: [MineLC_CORE]
+authors: [ElBuenAnvita]
+description: CORE de PvPGames
+website: https://www.minelc.net

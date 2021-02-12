@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MineLC_PvPGamess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MineLC_PvPGamess_jar</output-path>
+    <root id="archive" name="MineLC_PvPGamess.jar">
+      <element id="module-output" name="MineLC_PvPGamess" />
+    </root>
+  </artifact>
+</component>
