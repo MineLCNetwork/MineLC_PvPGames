@@ -20,6 +20,12 @@ public final class MineLC_PvPGames extends JavaPlugin {
         instance = this;
         // Plugin startup logic
         Bukkit.getLogger().info("** Cargando el plugin MineLC_PvPGames... **");
+
+        this.saveDefaultConfig();
+        // this.loadConfigInUTF();
+        // this.saveConfig();
+        this.loadConfigInUTF();
+
         Bukkit.getPluginManager().registerEvents(new PlayerListener(), this);
     }
 

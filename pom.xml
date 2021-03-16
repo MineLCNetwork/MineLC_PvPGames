@@ -6,7 +6,7 @@
 
     <groupId>net.minelc</groupId>
     <artifactId>MineLC_PvPGames</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.6-ALPHA</version>
     <packaging>jar</packaging>
 
     <name>MineLC_PvPGames</name>

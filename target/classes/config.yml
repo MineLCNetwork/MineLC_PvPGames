@@ -1,0 +1,33 @@
+version: 1
+
+lcoins:
+  win: # LCoins ganadas por el hecho de estar en el equipo ganador al ganar
+    default: 5
+    vip: 7
+    svip: 7
+    elite: 8
+    ruby: 10
+  place-wool: # LCoins ganadas por colocar una lana
+    default: 7
+    vip: 8
+    svip: 10
+    elite: 10
+    ruby: 14
+  destroy-monument: # LCoins gandas por destruir un monumento
+    default: 15
+    vip: 17
+    svip: 19
+    elite: 19
+    ruby: 20
+  core-leak: # LCoins gandas por derramar un core.
+    default: 5
+    vip: 6
+    svip: 7
+    elite: 8
+    ruby: 8
+  kill: # LCoins ganados por matar a alguien
+    default: 1
+    vip: 2
+    svip: 2
+    elite: 2
+    ruby: 2
